@@ -6,7 +6,7 @@ Machine Learning Engineer and Researcher
 
 I am passionate about deep learning, with a focus on simulating human cognition. I aspire to push the boundaries of AI and contribute to advancements that bring us closer to Artificial General Intelligence
 
-* 🌍  I'm based in Mumbai, India
+* 🌍  I'm based in Durham, North Carolina
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/atharva-jog/)
 * ✉️  You can contact me at [atharvajog26@gmail.com](mailto:atharvajog26@gmail.com)
 * 🚀  I'm currently working on [Approximating Regions of Interests (ROIs) in Images](http://github.com/Jog-sama/Approximating-Regions-of-Interest-in-Images.git)
